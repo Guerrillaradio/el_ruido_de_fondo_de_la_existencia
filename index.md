@@ -1,5 +1,5 @@
               
-<p>BUAN
+<p>aquella parte de la realidad, que es inmortal, eterna
                                            
 <p>no hay capitalismo sin propiedad privada.
 <p>metro cuadrado (m2): unidad basica de superficie.
