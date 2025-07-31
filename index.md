@@ -1,5 +1,7 @@
               
 <p>aquella parte de la realidad, que es inmortal, eterna
+<div><br></div><div><br></div><div><br></div><div><br></div><div><br>
+
                                            
 <p>"Hay un viejo misterio en el universo:
 <p>¿Por qué la vida?
@@ -15,4 +17,4 @@
 <div><font color="#fff300"></font></div><div></div><div><font color="#fff300"> </font><font color="#fff300"> </font></div>
 <a href="https://www.youtube.com/watch?v=WyhRL_7Wi5E"><div><font color="#fff300">無
 </font></div><div></div><div><font color="#fff300"> </font><font color="#fff300"> </font></div>
-</font></div></a>
+</a>
