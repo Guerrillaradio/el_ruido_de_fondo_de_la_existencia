@@ -1,7 +1,6 @@
               
 <p>aquella parte de la realidad, que es inmortal, eterna
-<div><br></div><br><div><br>
-                                          
+<div><br></div><br> 
 <p>"Hay un viejo misterio en el universo:
 <p>¿Por qué la vida?
 <p>¿Para qué la creación?  
