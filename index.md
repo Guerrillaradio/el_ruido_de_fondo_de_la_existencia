@@ -1,6 +1,6 @@
               
 <p>aquella parte de la realidad, que es inmortal, eterna
-<div><br></div><br> 
+<div><br></div>
 <p>"Hay un viejo misterio en el universo:
 <p>¿Por qué la vida?
 <p>¿Para qué la creación?  
@@ -12,7 +12,7 @@
 <p>a la conciencia iluminada por amor.
 <p>Privilegio de simples y sencillos,
 <p>como niños".
-<div><br></div><div><br></div><div><br></div><div><br></div><div><br>
+<div><br></div>
 <div><font color="#00ff00"></font></div><div></div><div><font color="#00ff00"> </font><font color="#00ff00"> </font></div>
 <a href="https://www.youtube.com/watch?v=WyhRL_7Wi5E"><div><font color="#00ff00">無
 </font></div><div></div><div><font color="#00ff00"> </font><font color="#00ff00"> </font></div>
